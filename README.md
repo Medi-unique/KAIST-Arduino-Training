@@ -9,6 +9,9 @@ Installation
 To get started, you need the following components:
 
 Arduino Uno board
+
 LCD module
+
 Breadboard
+
 Sonar sensor
